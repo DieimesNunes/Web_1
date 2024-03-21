@@ -2,7 +2,7 @@
 
 Olá, alunos!
 
-Este repositório contém o código abordado na sala de aula no dia 07/03/2024.
+Este repositório contém o código abordado na sala de aula.
 
 ## Conteúdo Abordado
 
