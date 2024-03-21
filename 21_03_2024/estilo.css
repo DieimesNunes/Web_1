@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+  }
+  
+  /* Media query para telas maiores que 600px */
+  @media (min-width: 600px) {
+    body {
+      background-color: coral;
+    }
+  }
+  
+  /* Media query para telas maiores que 900px */
+  @media (min-width: 900px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
+  
