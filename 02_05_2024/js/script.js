@@ -57,4 +57,19 @@ console.log(num1 ** num2);
 console.log(num1 % num2);
 
 
+// Operadores de comparação
+
+console.log(5 == "5"); // igual
+
+console.log("5" === "5"); // idêntico
+
+console.log(5 > 7); //falso , maior
+
+console.log(5 < 7); //verdadeiro, menor
+
+console.log(5 <=  5); //verdadeiro, menor e igual
+
+console.log(5 >= 5); //falso, maior e igual
+
+
 
