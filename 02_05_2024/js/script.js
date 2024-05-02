@@ -99,3 +99,9 @@ console.log (a > 0  || b > 15); // Verdadeiro
 console.log ( !b );
 console.log ( a > 3 && !b >-50);
 
+let reposta = confirm("O Palmeiras tem Mundial ?")
+console.log (reposta);
+
+let reposta2 = prompt ("Qual o seu nome?");
+console.log(reposta2);
+
