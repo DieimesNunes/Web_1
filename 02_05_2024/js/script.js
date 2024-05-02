@@ -71,5 +71,31 @@ console.log(5 <=  5); //verdadeiro, menor e igual
 
 console.log(5 >= 5); //falso, maior e igual
 
+console.log(5 != 5); //falso, diferente
 
+
+console.log(5 !== 5); //falso, não idêntico
+
+
+// Operadores Lógicos
+
+/*
+ E &&
+
+ ou ||
+
+ não !
+
+*/
+
+let a = 5;
+let b = 10;
+
+console.log (a > 0  && b > 5); // Verdadeiro
+
+console.log (a > 0  || b > 15); // Verdadeiro
+
+
+console.log ( !b );
+console.log ( a > 3 && !b >-50);
 
