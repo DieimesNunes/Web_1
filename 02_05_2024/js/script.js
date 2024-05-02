@@ -1,0 +1,1 @@
+alert("O Palmeiras é campeão 2024 e 2025");

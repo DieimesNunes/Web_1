@@ -13,3 +13,7 @@ No dia 07/03/2024, cobrimos os seguintes tópicos:
 - Bootstrap: Uso do framework para design responsivo e componentes
 
 #
+
+No dia 02/05/2024, abordamos os seguinte conhecimentos:
+
+
