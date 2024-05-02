@@ -36,8 +36,8 @@ let texto02 = null; // Vazio
 
 // Adição
 
-let num1 = 10;
-let num2 = 5;
+let num1 = 3;
+let num2 = 2;
 
 console.log(num1 + num2);
 
@@ -49,5 +49,12 @@ console.log(num1 * num2);
 
 // Divição
 console.log(num1 / num2);
+
+// Potência
+console.log(num1 ** num2);
+
+// Modulo
+console.log(num1 % num2);
+
 
 
