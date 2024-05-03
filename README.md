@@ -16,4 +16,12 @@ No dia 07/03/2024, cobrimos os seguintes tópicos:
 
 No dia 02/05/2024, abordamos os seguinte conhecimentos:
 
+- Introdução - JavaScript
+- JavaScript - Como Utilizar
+- Declarações de Variáveis
+- Funções: console.log(), alert(), confirm(), prompt()
+- Operadores Aritmético
+- Operadores de Comparação
+- Operadores Lógicos
+
 
