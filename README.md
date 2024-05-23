@@ -12,9 +12,9 @@ No dia 07/03/2024, cobrimos os seguintes tópicos:
 - CSS: Introdução à estilização
 - Bootstrap: Uso do framework para design responsivo e componentes
 
-#
+# No dia 02/05/2024, abordamos os seguinte conhecimentos:
 
-No dia 02/05/2024, abordamos os seguinte conhecimentos:
+
 
 - Introdução - JavaScript
 - JavaScript - Como Utilizar
@@ -24,4 +24,12 @@ No dia 02/05/2024, abordamos os seguinte conhecimentos:
 - Operadores de Comparação
 - Operadores Lógicos
 
+## Aula 16/05/2024
 
+- Document Object Model - DOM
+- defer
+- document.querySelector
+- document.querySelectorAll
+- .forEach()
+- addEventListener()
+- insertAdjacentHTML()
