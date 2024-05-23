@@ -4,7 +4,7 @@ Olá, alunos!
 
 Este repositório contém o código abordado na sala de aula.
 
-## Conteúdo Abordado - 02/05/2024
+## Aula 07/03/2024
 
 No dia 07/03/2024, cobrimos os seguintes tópicos:
 
@@ -12,7 +12,7 @@ No dia 07/03/2024, cobrimos os seguintes tópicos:
 - CSS: Introdução à estilização
 - Bootstrap: Uso do framework para design responsivo e componentes
 
-## No dia 02/05/2024, abordamos os seguinte conhecimentos:
+## Aula 02/05/2024
 
 
 
