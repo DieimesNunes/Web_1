@@ -4,7 +4,7 @@ Olá, alunos!
 
 Este repositório contém o código abordado na sala de aula.
 
-## Conteúdo Abordado
+## Conteúdo Abordado - 02/05/2024
 
 No dia 07/03/2024, cobrimos os seguintes tópicos:
 
