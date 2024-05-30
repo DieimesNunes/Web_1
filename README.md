@@ -33,3 +33,14 @@ No dia 07/03/2024, cobrimos os seguintes tópicos:
 - .forEach()
 - addEventListener()
 - insertAdjacentHTML()
+
+## Aula 23/05/2024
+
+- Eventos - addEventListener
+- PreventDefault()
+- .value
+- parseFloat
+- insertRow() e insertCell()
+- innerHTML e textContent
+- toFixed
+- reset()
